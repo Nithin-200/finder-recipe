@@ -1,0 +1,46 @@
+.cont {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 130px;
+}
+
+
+
+.search {
+
+    border: 2px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 15px;
+    margin-right: 12px;
+    border-color: rgba(0, 0, 0, 0.897);
+
+
+}
+
+.but {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    background-color: rgba(241, 221, 221, 0.863);
+    text-decoration: rgba(3, 3, 3, 0.904);
+
+}
+
+.line {
+    font-style: bold;
+    font-weight: 500px;
+    font-size: 35px;
+}
+
+.lines{
+    font-style: bold;
+    font-weight: 500px;
+    font-size: 25px;
+} 
